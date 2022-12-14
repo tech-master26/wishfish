@@ -15,7 +15,7 @@ echo " ██      ██ ███████ ██   ██       ██    
 
 
 printf " \e[1;93m WishFish v3.0\e[0m \n"
-printf " \e[1;77m github.com/sirajul26 | m.me/offical4516 \e[0m \n"
+printf " \e[1;77m github.com/sirajul26 | youtube.com/@BasicHacker26 \e[0m \n"
 
 printf "\n"
 
